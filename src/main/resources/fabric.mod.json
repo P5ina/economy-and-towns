@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "economytowns",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Economy and Towns",
+  "description": "This mod adds towns and its own currency for trading",
   "authors": [
-    "Me!"
+    "P5ina"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/P5ina/economy-and-towns"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/economytowns/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.p5ina.economytowns.EconomyAndTownsMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "economytowns.mixins.json"
   ],
 
   "depends": {
