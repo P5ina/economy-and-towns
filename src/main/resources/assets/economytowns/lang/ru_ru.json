@@ -1,3 +1,4 @@
 {
-  "item.economytowns.coin": "Монета"
+  "item.economytowns.coin": "Монета",
+  "block.economytowns.coin_stack": "Стопка монет"
 }

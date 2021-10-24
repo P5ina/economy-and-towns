@@ -1,3 +1,4 @@
 {
-  "item.economytowns.coin": "Coin"
+  "item.economytowns.coin": "Coin",
+  "block.economytowns.coin_stack": "Coin Stack"
 }

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "economytowns:block/coin_stack"
+    }
+  }
+}
